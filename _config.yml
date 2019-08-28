@@ -37,3 +37,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Theme config
+search_enabled: true
+heading_anchors: true
