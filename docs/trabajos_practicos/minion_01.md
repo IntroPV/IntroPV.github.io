@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Minion 1:s Doodle Jump"
+title: "Minion 1: Doodle Jump"
 parent: Trabajos Prácticos
 ---
 
@@ -26,8 +26,12 @@ El juego completo puede verse en el siguiente video:
   - Que la cámara siga al jumper
   - Que se muera cuando cae de la pantalla
   - Contabilizar un puntaje
-- Cualquier adicional por sobre el alcance mínimo mejora el trabajo práctico! - Agregar algunos power ups - Agregar plataformas rompibles - Agregar plataformas móviles - Hacer que la dificultad del juego aumente progresivamente al subir
-  Cualquier otra extensión al juego que agregue a la experiencia
+- Cualquier adicional por sobre el alcance mínimo mejora el trabajo práctico!
+  - Agregar algunos power ups
+  - Agregar plataformas rompibles
+  - Agregar plataformas móviles
+  - Hacer que la dificultad del juego aumente progresivamente al subir
+    Cualquier otra extensión al juego que agregue a la experiencia
 
 ### Corrección del trabajo práctico
 
