@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assets
+title: "Minion 1:s Doodle Jump"
 parent: Trabajos Prácticos
 ---
 
