@@ -14,7 +14,7 @@ parent: Bitacoras
  - Se introdujeron [corrutinas](http://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html#coroutines-with-yield) utilizando `yield`
  
  
- ### Links Útiles:
+### Links Útiles:
  
   - Godot documentation on physics: [https://docs.godotengine.org/en/3.1/tutorials/physics/physics_introduction.html](https://docs.godotengine.org/en/3.1/tutorials/physics/physics_introduction.html) 
   - GDQuest's Coroutines: [https://www.youtube.com/watch?v=nFcBSuzxFdM](https://www.youtube.com/watch?v=nFcBSuzxFdM)
