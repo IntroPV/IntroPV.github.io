@@ -8,7 +8,7 @@ parent: Trabajos Prácticos
 ## Trabajo Práctico Grupal “Minion 2”
 
 En este TP vamos a trabajar game design y level design.
-Se debe implementar un juego top-down de tipo puzzle en Godot, organizado sobre una grilla. Teniendo como referencia "Sokoban", "Fidel Dungeon Rescue", "Baba is you", "A Good Snowman Is Hard To Build", entre otros. También son interesantes como referencia algunos juegos de la [GMTK Game Jam 2019](https://www.youtube.com/watch?v=o-WrQ77zUvA).
+Se debe implementar un juego top-down de tipo puzzle en Godot, organizado sobre una grilla. Teniendo como referencia [Sokoban](https://en.wikipedia.org/wiki/Sokoban), [Fidel Dungeon Rescue](https://store.steampowered.com/app/573170/Fidel_Dungeon_Rescue/), [Baba is you](https://store.steampowered.com/app/736260/Baba_Is_You/), [A Good Snowman Is Hard To Build](https://store.steampowered.com/app/316610/A_Good_Snowman_Is_Hard_To_Build/), entre otros. También son interesantes como referencia algunos juegos de la [GMTK Game Jam 2019](https://www.youtube.com/watch?v=o-WrQ77zUvA).
 
 Se recomienda utilizar [PuzzleScript](https://www.puzzlescript.net/) para prototipar y explicar ideas a sus compañeros, pero no es obligatorio.
 
