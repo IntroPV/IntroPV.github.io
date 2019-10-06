@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Minion 2: puzzle game"
@@ -28,6 +27,7 @@ Se recomienda utilizar [PuzzleScript](https://www.puzzlescript.net/) para protot
  Elegir entre 2 y 4 mecánicas de las siguientes opciones (y no más):
   - Player empuja bloques.
   - Player tiene cantidad de movimientos limitados. Por ejemplo, puede perder vida o combustible cada vez que avanza, y puede tomar ítems del piso para recargarse.
+  - Player tiene una cantidad de tiempo limitado. Por ejemplo: celdas que se destruyen o se vuelven inhabitables; aumenta la cantidad de obstáculos; disminuye la vida del Player; items o recursos desaparecen; contadores. El tiempo restante puede verse afectado por otras mecánicas.
   - Bloques o celdas que causan daño (ej: lasser, un precipicio que se abre, muro de llamas, picas desde el piso, etc.). Cómo se modela ese daño depende de la implementación.
   - Una celda o elemento actúa como interruptor que activa otro elemento o celda. Puede ser un botón en el piso que reacciona a pressión, un detector de cercanía, de daño, de luz, etc. Activar puede implicar resumir un comportamiento pausado, cambiar el tipo de bloque o celda afectada, etc.
   - El Player tiene un ítem que le permite moverse en una dirección. Solamente puede moverse en la dirección indicada por el ítem. Se puede tomar un ítem del suelo pero eso implica dejar en el suelo el ítem que se tenía.
