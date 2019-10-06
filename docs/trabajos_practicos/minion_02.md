@@ -10,6 +10,8 @@ parent: Trabajos Prácticos
 En este TP vamos a trabajar game design y level design.
 Se debe implementar un juego top-down de tipo puzzle en Godot, organizado sobre una grilla. Teniendo como referencia [Sokoban](https://en.wikipedia.org/wiki/Sokoban), [Fidel Dungeon Rescue](https://store.steampowered.com/app/573170/Fidel_Dungeon_Rescue/), [Baba is you](https://store.steampowered.com/app/736260/Baba_Is_You/), [A Good Snowman Is Hard To Build](https://store.steampowered.com/app/316610/A_Good_Snowman_Is_Hard_To_Build/), entre otros. También son interesantes como referencia algunos juegos de la [GMTK Game Jam 2019](https://www.youtube.com/watch?v=o-WrQ77zUvA).
 
+Este tipo de puzzle games tienen dos características que nos interesan: es sencillo identificar las mecánicas que utilizan y los niveles son acotados, siendo más fáciles de analizar que en otros géneros.
+
 Se recomienda utilizar [PuzzleScript](https://www.puzzlescript.net/) para prototipar y explicar ideas a sus compañeros, pero no es obligatorio.
 
 
@@ -37,7 +39,6 @@ Se recomienda utilizar [PuzzleScript](https://www.puzzlescript.net/) para protot
 
 La idea es que las mecánicas que elijan sean implementadas de manera que resulten cohesivas. **Elegir más mecánicas no hace que el TP sea mejor, es más importante que estén bien implementadas.**
 
-
 ### Dinámicas
 
 La manera en que el jugador interactúa con el mundo y controla al elemento Player queda a libre implementación, pero debe ser consistente con las mecánicas elegidas.
@@ -45,10 +46,17 @@ La manera en que el jugador interactúa con el mundo y controla al elemento Play
 
 ### Niveles
 
-Armar al menos 3 niveles que no tengan más de 8x8 celdas aplicando las mecánicas elegidas, al menos dos niveles tienen que tener dos mecánicas o más. A la hora de construir un nivel, sólo coloquen elementos que cumplan una función. Si ese elemento solamente está "de relleno", es mejor no ponerlo.
+Armar al menos 3 niveles que no tengan más de 8x8 celdas aplicando las mecánicas elegidas, al menos dos niveles tienen que tener dos mecánicas o más. A la hora de construir un nivel, unicamente coloquen elementos que cumplan una función. Si ese elemento solamente está "de relleno", es mejor no ponerlo.
 
 
 ### Arte
 
 Es suficiente con utilizar componentes simbólicos para representar los elementos del juego, alcanza con que los elementos sean legibles.
 
+
+### Videos útiles
+
+ - [Un análisis de level design](https://www.youtube.com/watch?v=UwBl7Rnkt78)
+ - [Video sobre cómo Johnatan Blow construye puzzles](https://www.youtube.com/watch?v=2zK8ItePe3Y)
+ - [What makes a good puzzle?](https://www.youtube.com/watch?v=zsjC6fa_YBg)
+ - [Level design workshop: Solving Puzzle Design](https://www.youtube.com/watch?v=0xBJwrm9C8w)
