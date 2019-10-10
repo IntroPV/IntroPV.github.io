@@ -27,7 +27,7 @@ Algunos elementos que aportan Juiciness:
 ### Referencias:
 
 - [Juice it or lose it - a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
-- [Secrets of Game Feel and Juice | Game Maker's Toolkit](https://www.youtube.com/watch?v=216_5nu4aVQ)
+- [Secrets of Game Feel and Juice - Game Maker's Toolkit](https://www.youtube.com/watch?v=216_5nu4aVQ)
 - [Jan Willem Nijman - Vlambeer - "The art of screenshake"](https://www.youtube.com/watch?v=AJdEqssNZ-U)
 - [Fun Hacks In Game Design](https://www.youtube.com/watch?v=MLCAqlPGV_k)
 - [Jelly Jump](https://www.youtube.com/watch?v=9p2Mq6Jee_4)
