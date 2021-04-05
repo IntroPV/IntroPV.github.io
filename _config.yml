@@ -42,3 +42,5 @@ plugins:
 # Theme config
 search_enabled: true
 heading_anchors: true
+
+theme: jekyll-theme-tactile
